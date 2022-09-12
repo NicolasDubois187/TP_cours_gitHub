@@ -1,4 +1,0 @@
-Salade
-Tomate
-Oignons
-Beterave
